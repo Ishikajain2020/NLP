@@ -6,4 +6,5 @@ Text summarization is the process of generating a shorter, coherent, and informa
 1. Extractive Summarization: This method selects and extracts sentences or phrases directly from the original text to create a summary.
                              It usually involves ranking sentences by importance and choosing the top-ranked sentences. Extractive summarization maintains the original wording but can lack fluency.
 2. Abstractive Summarization: Abstractive summarization generates summaries by paraphrasing and rephrasing the content of the source text in a more human-readable form.It involves understanding the source text and generating novel sentences. This approach often results in more coherent and fluent summaries.
+
 In this project we are working on Abstractive Summarization of text.
