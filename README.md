@@ -5,6 +5,5 @@ The significance of text summarization is underscored by the ever-increasing vol
 Text summarization is the process of generating a shorter, coherent, and informative version of a longer document or text. The goal is to capture the essential points, ideas, and key information while reducing the overall length. There are two primary approaches to text summarization:
 1. Extractive Summarization: This method selects and extracts sentences or phrases directly from the original text to create a summary.
                              It usually involves ranking sentences by importance and choosing the top-ranked sentences. Extractive summarization maintains the original wording but can lack fluency.
-2. Abstractive Summarization: Abstractive summarization generates summaries by paraphrasing and rephrasing the content of the source text in a more human-readable form.
-3.                            It involves understanding the source text and generating novel sentences. This approach often results in more coherent and fluent summaries.
-4. In this project we are working on Abstractive Summarization of text.
+2. Abstractive Summarization: Abstractive summarization generates summaries by paraphrasing and rephrasing the content of the source text in a more human-readable form.It involves understanding the source text and generating novel sentences. This approach often results in more coherent and fluent summaries.
+In this project we are working on Abstractive Summarization of text.
